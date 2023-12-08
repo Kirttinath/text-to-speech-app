@@ -10,3 +10,10 @@
 html {
   color: rgb(96 101 123);
 }
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+  background: rgb(255 255 255);
+}
