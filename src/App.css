@@ -17,3 +17,9 @@ body {
   align-self: center;
   background: rgb(255 255 255);
 }
+
+.container {
+  padding: 30px;
+  margin-top: 80px;
+}
+
