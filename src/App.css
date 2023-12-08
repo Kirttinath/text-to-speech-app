@@ -87,4 +87,39 @@ button:hover {
   display: flex;
   justify-content: space-between;
 }
+@media screen and (max-width: 768px) {
+  .container {
+    margin-top: 20px;
+  }
+  
+  h2 {
+    font-size: 28px;
+  }
 
+  p {
+    font-size: 16px;
+    word-spacing: normal;
+    margin-bottom: 40px;
+    margin-top: 15px;
+  }
+
+  .main-content {
+    /*border:1px solid*/
+    font-size: 16px;
+    word-spacing: normal;
+  }
+
+  button {
+    padding: 12px 28px;
+    font-size: 16px;
+    margin-top: -70px;
+  }
+
+  .counter-container {
+    flex-direction: column;
+  }
+
+  .counter-container p:first-child {
+    margin-bottom: 0;
+  }
+}
