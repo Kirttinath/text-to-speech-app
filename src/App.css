@@ -63,3 +63,17 @@ p,
   display: flex;
 
 }
+button {
+  background: rgb(17 166 131);
+  color: rgb(255 255 255);
+  border-radius: 6px;
+  padding: 16px 32px;
+  border: none;
+  font-size: 18px;
+  letter-spacing: 1px;
+  margin: auto;
+  display: flex;
+  position: relative;
+  margin-top: -80px;
+  cursor: pointer;
+}
