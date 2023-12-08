@@ -1,8 +1,9 @@
-import './App.css';
+import React from 'react'
+import './App.css'
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
+    <div>
       <div className="container">
         <h2>Speech To Text Converter</h2>
         <br />
@@ -17,7 +18,8 @@ function App() {
         </div>
       </div>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
+
