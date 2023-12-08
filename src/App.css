@@ -22,4 +22,11 @@ body {
   padding: 30px;
   margin-top: 80px;
 }
+h2 {
+  color: rgb(43 45 56);
+  text-align: center;
+  font-size: 48px;
+  letter-spacing: -0.2px;
+  font-family: "Merriweather", serif;
+}
 
