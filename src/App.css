@@ -52,3 +52,10 @@ p {
   border: 0.3px solid rgb(43, 45, 56, 0.3);
   outline: none;
 }
+p,
+.main-content {
+  font-size: 18px;
+  letter-spacing: 1px;
+  word-spacing: 2px;
+  line-height: 1.6;
+}
